@@ -6,3 +6,4 @@ using the plus equals (+=) operator.
 
 Example:
 
+const anAdjective = "awesome!";
