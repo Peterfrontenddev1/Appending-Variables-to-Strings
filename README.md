@@ -21,4 +21,5 @@ You should append someAdjective to myStr using the += operator.
 // Change code below this line
 
 const someAdjective = "";
+
 let myStr = "Learning to code is ";
