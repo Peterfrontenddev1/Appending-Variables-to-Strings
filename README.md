@@ -7,5 +7,5 @@ using the plus equals (+=) operator.
 Example:
 
                               const anAdjective = "awesome!";
-let ourStr = "freeCodeCamp is ";
+                              let ourStr = "freeCodeCamp is ";
 ourStr += anAdjective;
