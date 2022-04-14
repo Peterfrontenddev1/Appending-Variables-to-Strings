@@ -9,4 +9,5 @@ Example:
                               const anAdjective = "awesome!";
                               let ourStr = "freeCodeCamp is ";
                               ourStr += anAdjective;
+                              
 ourStr would have the value freeCodeCamp is awesome!.
