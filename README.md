@@ -17,3 +17,5 @@ Set someAdjective to a string of at least 3 characters and append it to myStr us
 someAdjective should be set to a string at least 3 characters long.
 
 You should append someAdjective to myStr using the += operator.
+
+// Change code below this line
