@@ -11,4 +11,5 @@ Example:
                               ourStr += anAdjective;
                               
 ourStr would have the value freeCodeCamp is awesome!.
+
 Set someAdjective to a string of at least 3 characters and append it to myStr using the += operator.
